@@ -80,7 +80,7 @@
         "termMatch_algorithm": "iteration",
         "updateWorkFile_enabled": false
     },
-    "lastEntry": 0,
+    "lastEntry": 4,
     "files": [
         "test2.idml.xlf"
     ],
