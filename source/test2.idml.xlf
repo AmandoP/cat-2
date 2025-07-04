@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="Stories/Story_ue7.xml" source-language="de" target-language="en" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="P50B5830A-tu1" xml:space="preserve">
+<source xml:lang="de">BasicCAT can build a local git repository and upload it to a remote repository when the remote uri and account info are set. When requesting a git push, the program will fetch the latest changes and update local files. Then new changes in the local repo will be uploaded. BasicCAT automatically resolves conflicts according to the creation time of segment’s translation. You will almost encounter no conflicts.</source>
+<target xml:lang="en">BasicCAT can build a local git repository and upload it to a remote repository when the remote uri and account info are set. When requesting a git push, the program will fetch the latest changes and update local files. Then new changes in the local repo will be uploaded. BasicCAT automatically resolves conflicts according to the creation time of segment’s translation. You will almost encounter no conflicts.</target>
+</trans-unit>
+</body>
+</file>
+<file original="Stories/Story_u108.xml" source-language="de" target-language="en" datatype="xml" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="NFBB05A13-tu1" xml:space="preserve">
+<source xml:lang="de">BasicCAT can build a local git repository and upload it to a remote repository when the remote uri and account info are set. When requesting a git push, the program will fetch the latest changes and update local files. Then new changes in the local repo will be uploaded. BasicCAT automatically resolves conflicts according to the creation time of segment’s translation. You will almost encounter no conflicts.</source>
+<target xml:lang="en">BasicCAT can build a local git repository and upload it to a remote repository when the remote uri and account info are set. When requesting a git push, the program will fetch the latest changes and update local files. Then new changes in the local repo will be uploaded. BasicCAT automatically resolves conflicts according to the creation time of segment’s translation. You will almost encounter no conflicts.</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
