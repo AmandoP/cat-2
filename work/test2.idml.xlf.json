@@ -5,12 +5,13 @@
             "Stories\/Story_ue7.xml": [
                 [
                     "BasicCAT can build a local git repository and upload it to a remote repository when the remote uri and account info are set.",
-                    "Test",
+                    "BasicCAT kann ein lokales Git-Repository erstellen und es in ein entferntes Repository hochladen, wenn die entfernte Uri und die Kontoinformationen festgelegt sind.",
                     "BasicCAT can build a local git repository and upload it to a remote repository when the remote uri and account info are set.",
                     "Stories\/Story_ue7.xml",
                     {
+                        "note": "",
                         "creator": "AmandoP",
-                        "createdTime": 1751626505813,
+                        "createdTime": 1751626614037,
                         "id": "P50B5830A-tu1"
                     }
                 ],
